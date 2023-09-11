@@ -1,0 +1,18 @@
+html{
+  font-size: 62%;
+}
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica Neue','sans-serif';
+  color: #0B0C10;
+  background-color: #1F2833;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@media only screen and (max-width: 600px) 
+{
+    .solid-logo{
+        width: 20%;
+        height: 20%;
+    }
+}
